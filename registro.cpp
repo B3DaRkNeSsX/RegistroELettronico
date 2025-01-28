@@ -24,7 +24,7 @@ int main() {
     while(true) {
         if (nomeUtente == utenteInserito && passwordUtente == passwordInserita) {
             cout << "\n-- REGISTRO CLOUD 9 --\n\n";
-            cout << "1. Classe 1F\n";
+            cout << "1. Classe 4F\n";
             cout << "2. Classe 2H\n";
             cout << "3. Classe 5B\n";
             cout << "4. Classe 3C\n";
